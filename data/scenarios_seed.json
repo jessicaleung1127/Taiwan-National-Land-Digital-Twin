@@ -1,0 +1,20 @@
+{
+  "site_name": "Example Taipei Office Deconstruction",
+  "latitude": 25.0478,
+  "longitude": 121.5319,
+  "method": "circular",
+  "waste_streams": [
+    { "material": "concrete", "tonnes": 220 },
+    { "material": "steel", "tonnes": 36 },
+    { "material": "glass", "tonnes": 12 },
+    { "material": "wood", "tonnes": 18 },
+    { "material": "mixed_residual", "tonnes": 30 }
+  ],
+  "weights": {
+    "distance": 0.35,
+    "cost": 0.25,
+    "carbon": 0.25,
+    "recovery": 0.15
+  }
+}
+

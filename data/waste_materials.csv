@@ -1,0 +1,12 @@
+material,label_zh,label_en,default_reuse_priority,traditional_residual_rate,circular_residual_rate,notes
+soil_rubble,廢土方,Excavated soil and rubble,medium,0.45,0.18,Can be reused as fill if uncontaminated
+concrete,混凝土及水泥廢料,Concrete and cementitious debris,high,0.4,0.12,Can become recycled aggregate
+asphalt,瀝青,Asphalt,high,0.35,0.1,Often recyclable into pavement material
+steel,鋼鐵及金屬,Steel and metal,high,0.12,0.04,High-value recycling stream
+glass,玻璃,Glass,medium,0.35,0.16,Quality depends on separation and contamination
+wood,木材,Wood,medium,0.45,0.2,Reuse or biomass depends on treatment and contamination
+gypsum,石膏板,Gypsum board,medium,0.55,0.25,Needs clean separation to recycle
+plastic,塑膠,Plastic,low,0.6,0.32,Mixed plastics often downcycled or disposed
+mixed_residual,混合殘餘廢棄物,Mixed residual waste,low,0.9,0.65,Usually least circular pathway
+hazardous,有害廢棄物,Hazardous construction waste,restricted,1,0.9,Requires licensed special handling
+

@@ -1,0 +1,10 @@
+id,name,county,lat,lon,facility_type,accepted_materials,capacity_tonnes_per_day,current_utilization_pct,process_cost_twd_per_tonne,process_emission_kgco2e_per_tonne,recovery_rate,data_quality,notes
+F001,Taipei Circular Aggregate Pilot,Taipei,25.0500,121.5600,recycling,"concrete;soil_rubble;asphalt",850,62,420,8,0.82,estimated,Illustrative placeholder for prototype
+F002,New Taipei Metal Recovery Hub,New Taipei,25.0100,121.4500,recycling,"steel;glass;plastic",500,55,520,10,0.9,estimated,Illustrative placeholder for prototype
+F003,Taoyuan Soil Receiving Site,Taoyuan,24.9900,121.2500,soil_receiving,"soil_rubble;concrete",1200,70,300,5,0.45,estimated,Illustrative placeholder for prototype
+F004,Taichung Construction Waste Center,Taichung,24.1800,120.6200,recycling,"concrete;steel;wood;gypsum;plastic;mixed_residual",950,68,460,12,0.72,estimated,Illustrative placeholder for prototype
+F005,Tainan Resource Recovery Yard,Tainan,23.0000,120.2100,recycling,"concrete;glass;wood;plastic",650,58,440,11,0.76,estimated,Illustrative placeholder for prototype
+F006,Kaohsiung Circular Materials Park,Kaohsiung,22.6500,120.3300,recycling,"concrete;steel;glass;asphalt;plastic;mixed_residual",1100,64,430,9,0.8,estimated,Illustrative placeholder for prototype
+F007,Hualien Inert Waste Receiving Site,Hualien,23.9800,121.6000,soil_receiving,"soil_rubble;concrete;asphalt",700,49,350,7,0.5,estimated,Illustrative placeholder for prototype
+F008,Pingtung Residual Disposal Site,Pingtung,22.6800,120.4900,landfill,"mixed_residual;gypsum;wood;plastic",600,76,620,18,0.12,estimated,Illustrative placeholder for prototype
+
