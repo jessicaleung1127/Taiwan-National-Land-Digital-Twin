@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Taiwan National Land Digital Twin: Circular Construction Waste
 
 Starter research and prototype repo for a Taiwan digital twin that maps construction waste facilities, simulates waste flows, optimizes facility allocation, and compares traditional demolition with circular construction scenarios.
