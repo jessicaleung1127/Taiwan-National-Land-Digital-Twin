@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Taiwan National Land Digital Twin: Circular Construction Waste
 
 Starter research and prototype repo for a Taiwan digital twin that maps construction waste facilities, simulates waste flows, optimizes facility allocation, and compares traditional demolition with circular construction scenarios.
@@ -35,7 +34,7 @@ Then visit `http://localhost:8000/app/`.
 
 The prototype is a static website and can be hosted with GitHub Pages. The root `index.html` redirects to `app/`, so choose `/ (root)` as the GitHub Pages folder.
 
-Inside the UI:
+Inside the UI
 
 - `Copy Link` copies a URL that restores the current scenario.
 - `Export` downloads the current scenario as JSON.
