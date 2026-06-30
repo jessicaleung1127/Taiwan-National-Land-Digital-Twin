@@ -1,0 +1,11 @@
+from geopy.geocoders import Nominatim
+
+geolocator = Nominatim(user_agent="taiwan_gis")
+
+location = geolocator.geocode("新北市八里區商港五路75號")
+
+if location:
+    print(location.latitude, location.longitude)
+else:
+    print("Location not found")
+    
