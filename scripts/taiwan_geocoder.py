@@ -11,7 +11,7 @@ def load_data(csv_path: str) -> pd.DataFrame:
 
 
 def setup_geocoder():
-    geolocator = Nominatim(user_agent="taiwan_digital_twin_geocoder")
+    geolocator = Nominatim(user_agent="taiwan_digital_twin_geocoder", timeout=10)
 
     # Rate limiter prevents getting blocked by OSM
     geocode = RateLimiter(
