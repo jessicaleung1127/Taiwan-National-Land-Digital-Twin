@@ -18,7 +18,3 @@ included = df[mask]
 included.to_csv(OUTPUT_DIR / "B5_facilities.csv",
                 index=False,
                 encoding="utf-8-sig")
-
-#print(f"Total facilities: {len(df)}")
-#print(excluded[["場所名稱", "收受土質"]])
-#print(f"B5 facilities: {len(included)}")
